@@ -213,7 +213,6 @@
   header .hero-img {
     max-width: 400px;
     max-height: 400px;
-    z-index: -10;
   }
 }
 @media screen and (max-width: 500px) {
