@@ -210,9 +210,12 @@
   }
 }
 @media screen and (max-width: 800px) and (min-height: 800px) {
+  header {
+    height: auto;
+  }
   header .hero-img {
-    max-width: 400px;
-    max-height: 400px;
+    max-width: 100px;
+    max-height: 100px;
   }
 }
 @media screen and (max-width: 500px) {
