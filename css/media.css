@@ -215,7 +215,7 @@
   }
   header .hero-img {
     max-width: 400px;
-    max-height: 400px;
+    max-height: 30vh;
   }
 }
 @media screen and (max-width: 500px) {
